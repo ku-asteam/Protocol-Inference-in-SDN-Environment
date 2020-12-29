@@ -1,4 +1,4 @@
-# Anomaly Traffic Filter (at_filter)
+# Protocol-Inference-in-SDN-Environment-v2
 This project proposes an architecture of protocol Inference in SDN environment.
 
 ## Introduction
